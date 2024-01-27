@@ -1652,7 +1652,7 @@ form .form-country {
 
 .hero {
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   background-size: cover;
   background-position: center center;
   z-index: 1;
