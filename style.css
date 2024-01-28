@@ -1804,11 +1804,12 @@ form .form-country {
   font-size: 0.9375rem;
 }
 .thongtin {
-color: #19b490;
-  
+color: #19b490;  
 }
 .thongbao {
-text-align: justify;
-  
+text-align: justify;  
+}
+.hiennoidung {
+text-align: left;  
 }
 
