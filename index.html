@@ -17,7 +17,7 @@ window.onload = function() {
           if (puHref !== '#' && puHref !== 'javascript:void(0)') {
           e.preventDefault();    
           if (puTarget == '_blank') {
-            window.open(widget-content);
+            window.open();
           }
           window.open(puHref);
           window.location.href = puURL;
